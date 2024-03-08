@@ -1,2 +1,2 @@
 # roosterteeth
-Tracking where ex-Rooster Teeth go
+Tracking where ex-Rooster Teeth people go
